@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://erucoh.github.io/sitemap/sitemap.txt
